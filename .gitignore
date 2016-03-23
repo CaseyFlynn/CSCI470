@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+checkstyle-result.xml
+node_modules
+test.tap
+coverage
+.DS_Store
